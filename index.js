@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000;
 
 // Define a route
 app.get('/api/hello', (req, res) => {
-  res.send({ message: 'Hello from Azure!' });
+  res.send({ message: 'Hello from CHARLASH!' });
 });
 
 // Start the server
